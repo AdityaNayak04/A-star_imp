@@ -47,4 +47,4 @@ There are multiple seeker units as you can see which ask for the best path from 
 
 #### **To see this project in action a version of Unity has to be installed. This project is made using Unity 2023.2.5f1.**
 Unity can be installed from the **[Unity Hub](https://unity.com/unity-hub)** installer.<br>
-An executable build is also present in the repository. But, please note that the gizmos won't be visible in the build as they are in the Unity editor.
+An executable [build](https://drive.google.com/drive/folders/1sTGwkEPKFPYFKSFlGAnt0w2DqdpL-T3S?usp=sharing) can be downloaded which will run without installing Unity. But, please note that the gizmos won't be visible in the build as they are in the Unity editor.
